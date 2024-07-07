@@ -94,3 +94,9 @@
 - `make uninstall` -  удаляет приложение из `/home/SmartCalc-2.0`
 
 ![SmartCalc](img/calc.png)
+
+![SmartCalc](img/credit.png)
+
+![SmartCalc](img/leak.png)
+
+![SmartCalc](img/gcov.png)
