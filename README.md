@@ -92,3 +92,5 @@
 - `make clean` - удалить файлы сборки и временные файлы
 - `make install` -  собрать приложение. Автоматически откроется каталог `/home/SmartCalc-2.0` в нем будет находиться исполняемый файл программы `s21_smart_calc_v2.0`
 - `make uninstall` -  удаляет приложение из `/home/SmartCalc-2.0`
+
+![SmartCalc](img/calc.png)
